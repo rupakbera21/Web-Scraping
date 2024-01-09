@@ -36,6 +36,11 @@ The goal of this project is to extract details about books from multiple pages o
 
    Replace `web_scraping_(solved).py` with the actual name of your script.
 
+   OR
+
+   Click on "Click Here" to redirect to the Colab notebook: 
+   [Click Here](https://colab.research.google.com/drive/1HSjfM0Lo0R4uvyzobPKft4AmSFG2XdM3?usp=sharing)
+
 ## Code Explanation
 
 - **base_url**: Contains the base URL for the pages to be scraped.
